@@ -9,7 +9,7 @@
     "googleclientlogin": "~0.2.6",
     "lodash": "^2.4.1",
     "request": "^2.51.0",
-    "xml2json": "git+https://github.com/noahjs/node-xml2json.git"
+    "xml2json": "noahjs/node-xml2json"
   },
   "repository": "git://github.com/jpillora/node-edit-google-spreadsheet.git"
 }
